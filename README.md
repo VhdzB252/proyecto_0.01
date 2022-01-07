@@ -1,2 +1,1 @@
-# proyecto_0.01
-control de sprite
+# PROC9_Referencia_AA
